@@ -1,1 +1,10 @@
-# ufma-aprendizagem-de-maquina-trabalho-3
+# Modelo para Classificação de e-mail como spam ou não-spam
+
+UNIVERSIDADE FEDERAL DO MARANHÃO
+CURSO: ENGENHARIA DA COMPUTAÇÃO
+DISCIPLINA: APRENDIZAGEM DE MÁQUINA
+
+Alunos:
+- José Augusto
+- Maria Helena
+- Rodrigo de França
